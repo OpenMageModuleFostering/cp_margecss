@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>CP_Margecss</name>
+    <version>0.1.0</version>
+    <stability>devel</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>A Margecss is automatically unmerge css when detect IE browser.</summary>
+    <description>A Margecss is automatically unmerge css when detect IE browser.</description>
+    <notes>Fresh uploaded</notes>
+    <authors><author><name>Commerce Pundit</name><user>CPExtensions</user><email>support@commercepundit.com</email></author></authors>
+    <date>2016-01-08</date>
+    <time>13:59:42</time>
+    <contents><target name="magecommunity"><dir name="CP"><dir name="Margecss"><dir name="Block"><dir name="Page"><dir name="Html"><file name="Head.php" hash="5c971f852dd323efeb7e64b48f4f6c21"/></dir></dir></dir><dir name="etc"><file name="config.xml" hash="0053cf743769eccf52a0520d45f5b2cc"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="CP_Margecss.xml" hash="979e7521b134d4cffc1d1c407a72e0e4"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php><package><name></name><channel>connect.magentocommerce.com/core</channel><min></min><max></max></package></required></dependencies>
+</package>
