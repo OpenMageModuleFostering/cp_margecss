@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/CP_Margecss",
+    "name": "openmage-module-fostering\/cp_margecss",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "A Margecss is automatically unmerge css when detect IE browser.",
     "authors": [
